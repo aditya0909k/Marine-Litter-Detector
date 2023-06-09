@@ -4,4 +4,5 @@ Video demonstration:
 
 https://github.com/aditya0909k/Marine-Litter-Detector/assets/85547196/100ca816-710d-41a8-8bca-b23d6e5d85aa
 
-Google slides detailing project: https://docs.google.com/presentation/d/1wqv7Ie_fSoyOGpxikTSKkaSxS2JSfDjzo0t2Zx5LgKM/edit?usp=sharing
+Google slides detailing project:  
+https://docs.google.com/presentation/d/1wqv7Ie_fSoyOGpxikTSKkaSxS2JSfDjzo0t2Zx5LgKM/edit?usp=sharing
