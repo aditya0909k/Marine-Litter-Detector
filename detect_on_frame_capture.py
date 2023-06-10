@@ -49,8 +49,8 @@ while True:
     ret, frame = cap.read()
 
     # implement our button to the frame
-    #cv2.rectangle(frame, (button_x, button_y), (button_x + button_width, button_y + button_height), button_color, -1)
-    #cv2.putText(frame, button_text, (button_x + 42, button_y + 35), cv2.FONT_HERSHEY_SIMPLEX, 1.2, button_text_color, 1)
+    cv2.rectangle(frame, (button_x, button_y), (button_x + button_width, button_y + button_height), button_color, -1)
+    cv2.putText(frame, button_text, (button_x + 42, button_y + 35), cv2.FONT_HERSHEY_SIMPLEX, 1.2, button_text_color, 1)
 
     # display webcam
     cv2.imshow("Webcam", frame)
